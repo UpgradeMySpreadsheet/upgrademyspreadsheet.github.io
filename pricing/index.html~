@@ -3,6 +3,12 @@ title: Pricing
 layout: default_pricing
 currentpage: pricing
 ---
+<div class="row mt centered">
+    <div class="col-lg-10 col-lg-offset-1">
+        <h1>Who are UpgradeMySpreadsheet?</h1>
+        <h3>TBC...</h3>
+    </div>
+</div><!-- /row -->
 
 <div class="container">
   <div class="jumbotron">

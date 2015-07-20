@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="UpgradeMySpreadsheet: Automate any part of your job!">
+    <meta name="author" content="UpgradeMySpreadsheet">
     <link rel="shortcut icon" href="/static/img/favicon.png">
 
     <title>UpgradeMySpreadsheet | Automate any part of your job!</title>
@@ -54,10 +54,10 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="/">Home</a></li>
             <li><a href="/about">About</a></li>
-            <li><a href="#pricing">Pricing</a></li>
-            <li><a href="/documentation">Resources</a></li>
+            <li><a href="/pricing">Pricing</a></li>
+            <li><a href="/resources">Resources</a></li>
             <li><a target="_blank" href="https://twitter.com/upgradehub">Follow Us</a></li>
-            <li><a href="#contactus">Contact Us</a></li>
+            <li><a href="/contact">Contact Us</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
