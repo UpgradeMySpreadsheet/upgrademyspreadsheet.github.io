@@ -31,7 +31,7 @@
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-3539301-18', 'jasperproject.github.io');
+      ga('create', 'UA-3539301-18', 'upgrademyspreadsheet.github.io');
       ga('send', 'pageview');
 
     </script>
@@ -52,11 +52,11 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="/">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="/documentation">Documentation</a></li>
+            <li><a href="/">Home_UMS</a></li>
+            <li><a href="#about">About_UMS</a></li>
+            <li><a href="/documentation">Resources</a></li>
             <li><a target="_blank" href="https://groups.google.com/forum/#!forum/jasper-support-forum">Support</a></li>
-            <li><a target="_blank" href="https://github.com/jasperproject">GitHub</a></li>
+            <li><a target="_blank" href="https://github.com/upgrademyspreadsheet">GitHub</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
