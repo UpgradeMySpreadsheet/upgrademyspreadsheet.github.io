@@ -1,4 +1,6 @@
-jasperproject.github.io
-=======================
+UpgradeMySpreadsheet.github.io
+===============================
 
-Web site for general information and documentation
+Web site repository for www.UpgradeMySpreadsheet.com
+
+Contact john@upgrademyspreadsheet.com
