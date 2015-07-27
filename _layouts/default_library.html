@@ -8,7 +8,7 @@
     <meta name="author" content="UpgradeMySpreadsheet">
     <link rel="shortcut icon" href="/favicon.ico">
 
-    <title>UpgradeMySpreadsheet | About Us</title>
+    <title>UpgradeMySpreadsheet | Video Library</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/static/css/bootstrap.css" rel="stylesheet">
@@ -72,9 +72,9 @@
             <div class="col-sm-2">
               <nav class="nav-sidebar">
                   <ul class="nav">
+                      <li {% if page.currentpage == "home" %}class="active"{% endif %}><a href="/Library">Home</a></li>
+                      <li {% if page.currentpage == "time_management" %}class="active"{% endif %}><a href="/library/time_mangement">Time Management</a></li>
                       <!--
-                      <li {% if page.currentpage == "home" %}class="active"{% endif %}><a href="/documentation">Home</a></li>
-                      <li {% if page.currentpage == "hardware" %}class="active"{% endif %}><a href="/documentation/hardware">Hardware</a></li>
                       <li {% if page.currentpage == "installation" %}class="active"{% endif %}><a href="/documentation/installation">Installation</a></li>
                       <li {% if page.currentpage == "configuration" %}class="active"{% endif %}><a href="/documentation/configuration">Configuration</a></li>
                       <li {% if page.currentpage == "usage" %}class="active"{% endif %}><a href="/documentation/usage">Usage</a></li>
