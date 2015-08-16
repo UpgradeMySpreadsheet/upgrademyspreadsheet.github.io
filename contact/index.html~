@@ -17,12 +17,11 @@ currentpage: contact
 <form action="//formspree.io/john@upgrademyspreadsheet.com"
       method="POST">
     <input type="text" name="name" placeholder="Your name">
-    <br>
-    <br>
+    <br><br>
     <input type="email" name="_replyto" placeholder="Your email address">
-    <br>
-    <br>
-    <input type="textarea" name="message" cols="30" rows="15" placeholder="Your message"></textarea>
+    <br><br>
+    <textarea name="message" rows="5" width="100%" placeholder="Your message"></textarea>
+    <br><br>
     <input type="submit" value="Send"> 
     <input type="hidden" name="_subject" value="Contact by Site Aug 2015">
     <input type="text" name="_gotcha" style="display:none" />
