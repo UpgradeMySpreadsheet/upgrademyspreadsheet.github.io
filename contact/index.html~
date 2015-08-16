@@ -18,8 +18,10 @@ currentpage: contact
       method="POST">
     <input type="text" name="name" placeholder="Your name">
     <input type="email" name="_replyto" placeholder="Your email address">
-    <input type="text" name="message" placeholder="Your message">
+    <input type="textarea" name="message" rows="5" placeholder="Your message"></textarea>
     <input type="submit" value="Send">
+    <input type="text" name="_gotcha" style="display:none" />
+    <!-- <input type="hidden" name="_next" value="//mywebsite.com/thanks.html" /> -->
 </form>
 <br>
 <br>
