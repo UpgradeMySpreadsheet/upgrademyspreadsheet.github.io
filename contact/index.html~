@@ -69,14 +69,14 @@ currentpage: contact
         <button type="submit" class="btn btn-success btn-lg">Submit</button>
       </div>
     </div>
+
+    <input type="hidden" name="_subject" value="Contact by Site Aug 2015">
+    <input type="text" name="_gotcha" style="display:none" />
+    <!-- <input type="hidden" name="_next" value="//mywebsite.com/thanks.html" /> -->
+
   </form>
 </div>
-
-
-
-
-
-
+<br><br>
 
 
 <img src="/static/img/conversation.jpg" width="600" alt="Conversation">
