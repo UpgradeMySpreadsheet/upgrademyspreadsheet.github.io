@@ -22,13 +22,52 @@ currentpage: contact
     <br><br>
     <textarea name="message" rows="5" cols="30" placeholder="Your message"></textarea>
     <br><br>
-    <input type="submit" class="btn btn-success" value="Send"> 
+    <input type="submit" class="btn btn-success btn-lg" value="Send"> 
     <input type="hidden" name="_subject" value="Contact by Site Aug 2015">
     <input type="text" name="_gotcha" style="display:none" />
     <!-- <input type="hidden" name="_next" value="//mywebsite.com/thanks.html" /> -->
 </form>
 <br>
 <br>
+
+
+
+<div class="container">
+  <h2>Horizontal form</h2>
+  <form class="form-horizontal" role="form">
+    <div class="form-group">
+      <label class="control-label col-sm-2" for="email">Email:</label>
+      <div class="col-sm-10">
+        <input type="email" class="form-control" id="email" placeholder="Enter email">
+      </div>
+    </div>
+    <div class="form-group">
+      <label class="control-label col-sm-2" for="pwd">Password:</label>
+      <div class="col-sm-10">          
+        <input type="password" class="form-control" id="pwd" placeholder="Enter password">
+      </div>
+    </div>
+    <div class="form-group">        
+      <div class="col-sm-offset-2 col-sm-10">
+        <div class="checkbox">
+          <label><input type="checkbox"> Remember me</label>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">        
+      <div class="col-sm-offset-2 col-sm-10">
+        <button type="submit" class="btn btn-default">Submit</button>
+      </div>
+    </div>
+  </form>
+</div>
+
+
+
+
+
+
+
 
 <img src="/static/img/conversation.jpg" width="600" alt="Conversation">
 
