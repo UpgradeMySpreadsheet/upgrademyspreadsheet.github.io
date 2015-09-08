@@ -55,7 +55,7 @@
             <li><a href="/">Home</a></li>
             <li><a href="/about">About</a></li>
             <li><a href="/faq">FAQ</a></li>
-            <!-- li><a href="/resources">Resources</a></li> -->
+            <li><a href="/resources">Resources</a></li>
             <li><a href="/contact">Contact Us</a></li>
             <li><a target="_blank" href="https://twitter.com/upgradehub">Follow Us</a></li>
           </ul>
@@ -163,7 +163,6 @@
 		<strong>5. You'll accelerate your next promotion</strong><br>		
 		Superstars rise to the top because they make better use of their time
 		</p>
-		<br>
             </div>
         </div><!-- /row -->
 
