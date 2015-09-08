@@ -3,9 +3,6 @@ title:Resources
 layout: default_resources
 currentpage: Resources
 ---
-<html lang="en">
-<body>  
-
 <div class="row mt centered">
     <div class="col-lg-10 col-lg-offset-1">
         <h1>Welcome to the UpgradeMySpreadsheet video library</h1>
@@ -41,6 +38,3 @@ currentpage: Resources
 
     </div><!--/col-lg-4 -->
 </div><!-- /row -->
-
-</body>
-</html>

@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="UpgradeMySpreadsheet: Automate any part of your job!">
     <meta name="author" content="UpgradeMySpreadsheet">
-    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="shortcut icon" href="/static/img/favicon.png">
 
-    <title>UpgradeMySpreadsheet | FAQ</title>
+    <title>UpgradeMySpreadsheet | Contact Us</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/static/css/bootstrap.css" rel="stylesheet">
@@ -57,7 +57,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="/">Home</a></li>
             <li><a href="/about">About</a></li>
-            <li><a href="/faq">FAQ</a></li>
+            <li><a href="/pricing">Pricing</a></li>
             <li><a href="/resources">Resources</a></li>
             <li><a href="/contact">Contact Us</a></li>
             <li><a target="_blank" href="https://twitter.com/upgradehub">Follow Us</a></li>
@@ -74,7 +74,6 @@
             <div class="col-sm-2">
               <nav class="nav-sidebar">
                   <ul class="nav">
-                      <!--
                       <li {% if page.currentpage == "home" %}class="active"{% endif %}><a href="/documentation">Home</a></li>
                       <li {% if page.currentpage == "hardware" %}class="active"{% endif %}><a href="/documentation/hardware">Hardware</a></li>
                       <li {% if page.currentpage == "installation" %}class="active"{% endif %}><a href="/documentation/installation">Installation</a></li>
@@ -85,7 +84,6 @@
                       <li {% if page.currentpage == "modules" %}class="active"{% endif %}><a href="/documentation/modules">Modules</a></li>
                       <li {% if page.currentpage == "faq" %}class="active"{% endif %}><a href="/documentation/faq">FAQ</a></li>
                       <li {% if page.currentpage == "license" %}class="active"{% endif %}><a href="/documentation/license">License</a></li>
-                      -->
                   </ul>
               </nav>
           </div>
