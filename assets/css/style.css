@@ -79,15 +79,13 @@ img {
 .btn-border {
   border: 2px solid #0a7c18;
   color: #0a7c18;
+  background: #ffffff;
   overflow: hidden;
   font-size: 16px;
   line-height: 22px;
   font-weight: 300;
 }
-.btn-border:hover,{
-  color: #ffffff;
-  background: #04470c;
-}
+.btn-border:hover,
 .btn-border:active {
   color: #ffffff;
   background: #0a7c18;
