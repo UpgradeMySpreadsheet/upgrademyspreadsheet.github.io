@@ -84,7 +84,10 @@ img {
   line-height: 22px;
   font-weight: 300;
 }
-.btn-border:hover,
+.btn-border:hover,{
+  color: #ffffff;
+  background: #04470c;
+}
 .btn-border:active {
   color: #ffffff;
   background: #0a7c18;
