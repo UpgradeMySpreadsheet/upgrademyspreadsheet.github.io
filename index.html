@@ -557,7 +557,8 @@
 				<h1 class="section-title wow fadeIn" data-wow-delay=".2s"><span>Contact Us</span></h1>
 					<div class="row">
 						<div class="contact-form">
-							<form role="form" method="post">
+							<form action="//formspree.io/john@upgrademyspreadsheet.com"
+										method="POST">
 								<div class="col-sm-6 col-md-6 wow fadeInLeft" data-wow-delay="0.2s">
 										<div class="controls">
 											<input class="contact_input" type="text" name="name" placeholder="Name">
@@ -575,6 +576,8 @@
 								<div class="col-sm-6 col-md-6 wow fadeInRight" data-wow-delay="0.2s">
 										<textarea name="massage" rows="7" class="form-control" placeholder="Massage"></textarea>
 								</div>
+								<input type="text" name="_gotcha" style="display:none" />
+								<input type="hidden" name="_next" value="http://www.upgrademyspreadsheet.com/index.html" />
 								<div class="col-sm-6 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
 									<button type="submit" id="submit" class="btn btn-common">Send</button>
 								</div>
@@ -588,6 +591,21 @@
 
 
 
+		<form action="//formspree.io/john@upgrademyspreadsheet.com"
+		      method="POST">
+		    Name: <input type="text" name="Name" class="form-control input-lg" placeholder="Who are you?">
+		    <br>
+		    Email address: <input type="text" name="Email" class="form-control input-lg" placeholder="How can we contact you?">
+		    <br>
+		    Your message: <br>
+		    <textarea type="text" name="Message" rows="8" cols="40" placeholder="   How can we help?"></textarea>
+		    <br><br>
+		    <input type="text" name="_gotcha" style="display:none" />
+		    <input type="hidden" name="_next" value="http://www.upgrademyspreadsheet.com/faq/" />
+		    <button type="submit" class="btn btn-success btn-lg">Submit</button>
+		    <br>
+		</form>
+		<hr>
 
 
 
